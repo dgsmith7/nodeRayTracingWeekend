@@ -1,0 +1,25 @@
+{
+  "name": "raytracinginaweekend",
+  "version": "1.0.0",
+  "description": "A ray tracer",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "image1": "node image1.js",
+    "image2": "node image2.js",
+    "image3": "node image3.js",
+    "image4": "node image4.js",
+    "image5": "node image5.js",
+    "image6": "node image6.js",
+    "image7": "node image7.js",
+    "image8": "node image8.js",
+    "image9": "node image9.js",
+    "image10": "node image10.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^11.2.0"
+  }
+}
